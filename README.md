@@ -68,7 +68,7 @@ Training → Packaging → Deployment → Monitoring.
 
 ---
 
-## ⚙️ Tech Stack (Professional & Clean)
+## ⚙️ Tech Stack
 
 **Languages:** Python  
 **AI/ML:** PyTorch, Transformers, LangChain, FAISS, Qdrant, MLflow  
