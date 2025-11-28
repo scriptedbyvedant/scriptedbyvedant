@@ -1,82 +1,87 @@
-# 👋 Hi, I'm Vedant — AI Engineer | MLOps | GenAI | Data Architect
+# 👋 Hi, I'm Vedant — AI Engineer | MLOps | GenAI | Data Architect  
 
-I design and build **production-ready AI systems**, from LLM applications and agentic workflows  
-to scalable data pipelines, cloud-native deployments, and enterprise-grade architectures.
-
-I specialize in **end-to-end AI engineering** — combining modern LLMs, RAG pipelines,  
-vector search, multimodal models, MLOps automation, and secure cloud infrastructure.
+I design and build **end-to-end, production-ready AI systems** that combine  
+LLMs, agentic workflows, scalable data platforms, and cloud-native deployment.  
+My work focuses on turning real-world use cases into **robust, secure, and well-architected solutions**.
 
 ---
 
-## 🚀 What I Do
-- Build **end-to-end AI & data systems** with scalable architectures and cloud-native pipelines  
-- Develop **LLM, multimodal, and agentic AI applications** for real-world use cases  
+## 🚀 About Me
+- Develop **AI & data systems** with scalable architectures and cloud pipelines  
+- Build **LLM, RAG, multimodal, and agentic AI applications**  
 - Implement **MLOps workflows** with CI/CD, orchestration, monitoring, and automation  
-- Deploy production systems using **AWS, Azure, Docker, Terraform, and GitHub Actions**  
-- Produce complete **industry-level documentation** (HLD, LLD, architecture diagrams,  
-  project reports, user guides, installation & deployment manuals)
+- Deploy solutions on **AWS, Azure, Docker, Terraform, GitHub Actions**  
+- Deliver full **industry-level documentation** (HLD, LLD, architecture, user & deployment guides)
 
 ---
 
-## 🧠 Core Skills
-**AI & LLMs:**  
-LLMs, RAG, agents, LangChain, multimodal AI (CLIP/BLIP), semantic search, vector DBs (FAISS/Qdrant)
+## 🧠 Core Technical Expertise
 
-**MLOps & Engineering:**  
-CI/CD, GitHub Actions, Airflow, MLflow, DVC, Docker, Kubernetes, monitoring & logging
+### **Artificial Intelligence**
+- Large Language Models (LLMs)  
+- RAG pipelines, query rewriting, reranking  
+- Vector databases: FAISS, Qdrant  
+- Multimodal AI (CLIP, BLIP, Image/Text embeddings)  
+- Agentic AI systems (CrewAI, LangGraph)
 
-**Cloud & Deployment:**  
-AWS (SageMaker, Lambda, ECR, Fargate, EC2, S3), Azure VM/ACR, Terraform, serverless pipelines
+### **MLOps & Engineering**
+- CI/CD pipelines (GitHub Actions)  
+- MLflow, DVC, Docker  
+- Airflow orchestration  
+- Model tracking, versioning, monitoring
 
-**Software & Architecture:**  
-API development (FastAPI/Flask), microservices, HLD/LLD documentation, secure deployments
+### **Cloud & Deployment**
+- AWS: SageMaker, Lambda, ECR, Fargate, EC2, S3, DynamoDB  
+- Azure: ACR, VM deployments  
+- Terraform (IaC), Serverless architectures  
+- Production API development (FastAPI / Flask)
 
----
-
-## 📂 Featured Projects
-> Full project portfolio with documentation: **github.com/yourusername**
-
-### 🔹 1. Enterprise AI Project Portfolio (All Projects)
-Complete collection of all AI, LLMOps, MLOps & architecture-driven projects  
-with full documentation (HLD, LLD, architecture, user/deployment guides).
-
-### 🔹 2. Advanced RAG Document Intelligence System
-Multi-doc chat, semantic search, reranking, caching, and full-stack deployment.
-
-### 🔹 3. Serverless LLM Fine-Tuning & Inference (AWS SageMaker → Lambda → API Gateway)
-Fine-tune LLMs on SageMaker, deploy inference on Lambda with DynamoDB + S3 integration.
-
-### 🔹 4. Multi-Agent Research Automation System
-Builds multi-agent workflows for research, analysis, and automated reporting.
-
-### 🔹 5. Multimodal Semantic Image Search (CLIP/BLIP)
-Text-to-image search system with vector DB + REST API + Streamlit UI.
-
-### 🔹 6. MLOps CI/CD Pipeline (Terraform, GitHub Actions, AWS/Azure)
-Automated training, packaging, deployment, monitoring & versioning.
+### **Architecture & Documentation**
+- High-Level Design (HLD)  
+- Low-Level Design (LLD)  
+- System architecture diagrams  
+- Deployment architecture  
+- User guides, installation & usage manuals
 
 ---
 
-## 🏗️ Architecture Mindset
-I follow an engineering-first approach with:
-- HLD + LLD documentation  
-- Architecture diagrams  
-- Modular system design  
-- Deployment guides  
-- Observability & monitoring  
-- Secure, compliant data workflows  
+## 📂 Featured Projects  
+> Full portfolio with documentation: **github.com/yourusername**
+
+### 🔹 **Enterprise AI Project Portfolio**  
+All major projects in one place, each with HLD, LLD, architecture diagrams, reports, and deployment guides.
+
+### 🔹 **Advanced RAG Document Intelligence System**  
+Multi-document Q&A, semantic search, reranking, caching, full-stack deployment.
+
+### 🔹 **Serverless LLM Fine-Tuning & Inference (AWS SageMaker → Lambda → API Gateway)**  
+Fine-tuned LLMs, serverless inference pipeline, DynamoDB logging, S3 artifact storage.
+
+### 🔹 **Multi-Agent Research Automation System**  
+Agent-driven research, analysis & report generation using LangGraph/CrewAI.
+
+### 🔹 **Semantic Image Search (CLIP/BLIP)**  
+Multimodal pipeline with vector database + REST API + Streamlit UI.
+
+### 🔹 **MLOps CI/CD Pipeline (Terraform, GitHub Actions, AWS/Azure)**  
+Training → Packaging → Deployment → Monitoring.
 
 ---
 
-## 📊 GitHub Stats
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+## ⚙️ Tech Stack (Professional & Clean)
+
+**Languages:** Python  
+**AI/ML:** PyTorch, Transformers, LangChain, FAISS, Qdrant, MLflow  
+**Cloud:** AWS, Azure  
+**DevOps:** Docker, Terraform, GitHub Actions, Airflow  
+**APIs:** FastAPI, Flask  
+**Tools:** VSCode, Git, Conda, Poetry  
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me  
 **Email:** shivnekarvedant2000@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/vedant-shivnekar  
-**GitHub Portfolio:** [github.com/yourusername](https://github.com/scriptedbyvedant)  
+**GitHub Portfolio:** [github.com/yourusername](https://github.com/scriptedbyvedant) 
 
 ---
