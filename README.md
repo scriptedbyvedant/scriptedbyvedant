@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&vCenter=true&center=true&multiline=true&width=1000&lines=%F0%9F%A7%90+AI+Engineer+%7C+LLM+Systems+%7C+MLOps+%7C+Cloud+Architect;%F0%9F%9A%80+Building+Autonomous+and+Scalable+AI+Solutions;%F0%9F%93%8A+Production-ready+Pipelines+%7C+GenAI+%7C+LangChain%2C+CrewAI%2C+Autogen"/>
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/26FPGt0Dt0yt5zquA/giphy.gif" width="300"/>
 
 </div>
 
