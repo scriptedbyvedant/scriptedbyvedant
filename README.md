@@ -54,6 +54,18 @@ I specialize in creating **end-to-end AI systems**—from LLM applications and R
   <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=terraform" /><br>Terraform</td>
 </tr>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>MongoDB</td>
+  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="40" height="40"/><br>OpenAI</td>
+  <td align="center"><img src="https://avatars.githubusercontent.com/u/107478659?s=200&v=4" width="40" height="40"/><br>LangChain</td>
+  <td align="center"><img src="https://seeklogo.com/images/F/faiss-logo-68E5C8D75E-seeklogo.com.png" width="40" height="40"/><br>FAISS</td>
+  <td align="center"><img src="https://seeklogo.com/images/P/pinecone-logo-0B161C9D9E-seeklogo.com.png" width="40" height="40"/><br>Pinecone</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://seeklogo.com/images/G/google-gemini-logo-5066226E3B-seeklogo.com.png" width="40" height="40"/><br>Gemini</td>
+  <td align="center"><img src="https://avatars.githubusercontent.com/u/104815081?s=200&v=4" width="40" height="40"/><br>Claude</td>
+  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/200px-Wikipedia-logo-v2.svg.png" width="40" height="40"/><br>RAG</td>
+</tr>
 </table>
 
 ---
