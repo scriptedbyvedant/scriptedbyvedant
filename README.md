@@ -1,48 +1,54 @@
-<!-- Header & Title -->
-<h1 align="center">🧠 Vedant Shivnekar — AI Engineer · MLOps · LLM & Agentic AI</h1>
+<!-- ======================= HEADER & TITLE ======================= -->
+<h1 align="center">🧠 Vedant Shivnekar</h1>
+<h3 align="center">AI Engineer · LLM & Agentic AI · MLOps · Cloud & Production-Ready Systems</h3>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Website-purple?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio Website"></a>
   <a href="https://www.linkedin.com/in/vedant-shivnekar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:shivnekarvedant2000@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:shivnekarvedant2000@gmail.com"><img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <!-- Example: Add a hero GIF or banner here -->
-  <img src="https://media.giphy.com/media/MY-GIF-URL/giphy.gif" width="60%" alt="AI Animation Banner">
+  <!-- Hero / Banner GIF (Replace URL with actual GIF) -->
+  <img src="https://media.giphy.com/media/Your-GIF-URL-here/giphy.gif" width="60%" alt="AI / Tech Animation Banner" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack & Tools  
 <p align="center">
-  <!-- Using Skill Icons library -->
-  <img src="https://skillicons.dev/icons?i=python,aws,fastapi,docker,kubernetes,postgres,githubactions,linux,pytorch,terraform&theme=dark" alt="Tech stack icons">
+  <img src="https://skillicons.dev/icons?i=python,aws,azure,fastapi,docker,github,linux,postman,terraform,postgres,git,flask,streamlit,keras,pytorch,tf&theme=dark" alt="Tech Icons" />
 </p>
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects & Work  
 
-| 🧪 Project | 🔧 Highlights |
+| 💡 Project | 🔧 Description |
 |-----------|----------------|
-| **Automated LLM Grading Framework** | Multi-agent, RAG, Docker sandbox, explainability |
-| **Enterprise Document RAG System** | Multi-doc Q&A, semantic search, full-stack deployment |
-| **Serverless LLM Pipeline (AWS)** | SageMaker fine-tune → Lambda inference → API Gateway |
-| **Agentic Research Automation** | LangGraph / CrewAI multi-agent workflows |
-| **Multimodal Image Search System** | CLIP/BLIP embeddings + vector search + UI |
+| **Automated LLM-Based Grading Framework** | Multi-agent grading system with RAG, sandboxed code execution, explainability. |
+| **Enterprise Document RAG + Chat Portal** | Document ingestion, vector search, QA, full-stack deployment (FastAPI + UI). |
+| **Serverless LLM Pipeline (AWS)** | SageMaker fine-tuning → Lambda inference → API Gateway → DB logging. |
+| **Multi-Agent Research Automation System** | Agents for research → summarization → critique → report generation (LangGraph / CrewAI). |
+| **Multimodal Semantic Image Search** | CLIP/BLIP embeddings, vector DB, search UI for image-based retrieval. |
 
-*(Extend with GitHub links, or add screenshots / GIFs below each project)*
-
----
-
-## 🌍 Open for Opportunities  
-**Roles:** AI Engineer · LLM / GenAI Engineer · MLOps · Cloud AI · Data & AI Architecture  
-**Location:** Germany (Open to Munich, Stuttgart, Berlin, Remote)  
+> 🎯 *You can add links and small GIFs/screenshots under each project for live demo/previews.*
 
 ---
 
-## 📫 Contact  
-📧 shivnekarvedant2000@gmail.com  
-🔗 LinkedIn: linkedin.com/in/vedant-shivnekar  
-💼 Portfolio: your-portfolio-link.com  
+## 🌐 What I’m Looking For  
+Open to full-time opportunities in Germany: **AI / ML Engineering · LLM & GenAI · MLOps · Cloud AI Architecture · Data & AI Systems**  
+Based in Germany (Munich / Stuttgart / Heilbronn / remote-friendly).
+
+---
+
+## 📫 Contact & Connect  
+<p align="center">
+  <a href="https://linkedin.com/in/vedant-shivnekar"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"></a>
+  <a href="https://github.com/scriptedbyvedant"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"></a>
+  <a href="mailto:shivnekarvedant2000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"></a>
+</p>
+
+---
+
+<h4 align="center">⚡ Building scalable, production-ready AI systems for real-world impact.</h4>
