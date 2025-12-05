@@ -1,55 +1,48 @@
-<!-- Banner -->
-<h1 align="center">🚀 Vedant Shivnekar</h1>
-<h3 align="center">AI Engineer • LLM Systems • Agentic AI • MLOps</h3>
+<!-- Header & Title -->
+<h1 align="center">🧠 Vedant Shivnekar — AI Engineer · MLOps · LLM & Agentic AI</h1>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/vedant-shivnekar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shivnekarvedant2000@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/vedant-shivnekar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:shivnekarvedant2000@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <!-- Example: Add a hero GIF or banner here -->
+  <img src="https://media.giphy.com/media/MY-GIF-URL/giphy.gif" width="60%" alt="AI Animation Banner">
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,azure,docker,git,linux,fastapi,tensorflow,pytorch,postgres,githubactions,terraform" />
+  <!-- Using Skill Icons library -->
+  <img src="https://skillicons.dev/icons?i=python,aws,fastapi,docker,kubernetes,postgres,githubactions,linux,pytorch,terraform&theme=dark" alt="Tech stack icons">
 </p>
 
 ---
 
-## 📊 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scriptedbyvedant&show_icons=true&theme=tokyonight&hide_title=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scriptedbyvedant&theme=tokyonight" width="48%">
-</p>
+## 📂 Featured Projects  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptedbyvedant&layout=compact&theme=tokyonight" width="40%">
-</p>
+| 🧪 Project | 🔧 Highlights |
+|-----------|----------------|
+| **Automated LLM Grading Framework** | Multi-agent, RAG, Docker sandbox, explainability |
+| **Enterprise Document RAG System** | Multi-doc Q&A, semantic search, full-stack deployment |
+| **Serverless LLM Pipeline (AWS)** | SageMaker fine-tune → Lambda inference → API Gateway |
+| **Agentic Research Automation** | LangGraph / CrewAI multi-agent workflows |
+| **Multimodal Image Search System** | CLIP/BLIP embeddings + vector search + UI |
 
----
-
-## 🔥 Featured Work
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/RAG%20Document%20System-%2300A3E0?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Multi--Agent%20Automation-%23E91E63?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Serverless%20LLM-%23FF9800?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Multimodal%20Search-%236443BD?style=for-the-badge" /></a>
-</p>
+*(Extend with GitHub links, or add screenshots / GIFs below each project)*
 
 ---
 
-## 🌐 Connect
-<p align="center">
-  <a href="https://linkedin.com/in/vedant-shivnekar"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="https://github.com/scriptedbyvedant"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
-  <a href="mailto:shivnekarvedant2000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
-</p>
+## 🌍 Open for Opportunities  
+**Roles:** AI Engineer · LLM / GenAI Engineer · MLOps · Cloud AI · Data & AI Architecture  
+**Location:** Germany (Open to Munich, Stuttgart, Berlin, Remote)  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=scriptedbyvedant&color=blue&style=flat-square">
-</p>
-
-<h3 align="center">⚡ Creating scalable, production-ready AI systems.</h3>
+## 📫 Contact  
+📧 shivnekarvedant2000@gmail.com  
+🔗 LinkedIn: linkedin.com/in/vedant-shivnekar  
+💼 Portfolio: your-portfolio-link.com  
