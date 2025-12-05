@@ -1,24 +1,15 @@
+<!-- AI Engineer GitHub Profile README -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Vedant+Shivnekar;AI+Engineer+%7C+LLM+%7C+MLOps+%7C+GenAI+Architect;Building+production-ready+AI+systems+%F0%9F%9A%80)
+![AI Banner](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&color=00F9FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Vedant+Shivnekar;AI+Engineer+%7C+LLM+%7C+MLOps+%7C+GenAI+Architect;Building+Autonomous+AI+Apps+and+LLM+Systems)
 
 </div>
 
 ---
 
-### 🔍 About Me
-
-🎓 M.Sc. Software Engineering — Hochschule Heilbronn, Germany  
-💼 AI Engineer | MLOps | Generative AI | LLM & Agentic Systems  
-📍 Based in Germany | Open to Remote + Hybrid Roles
-
-I specialize in creating **end-to-end AI systems**—from LLM applications and RAG pipelines to cloud-native deployments, MLOps automation, and enterprise-grade architectures.
-
----
-
-### 🚀 Projects Showcase
+### 🚀 Featured Projects
 
 | Project | Stack | Demo |
 |--------|-------|------|
@@ -30,47 +21,63 @@ I specialize in creating **end-to-end AI systems**—from LLM applications and R
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Tech Stack
 
 <table>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" /><br>PyTorch</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" /><br>Kubernetes</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=flask" /><br>Flask</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=aws" /><br>AWS</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=azure" /><br>Azure</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=linux" /><br>Linux</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" /><br>PostgreSQL</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=terraform" /><br>Terraform</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>MongoDB</td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="40" height="40"/><br>OpenAI</td>
-  <td align="center"><img src="https://avatars.githubusercontent.com/u/107478659?s=200&v=4" width="40" height="40"/><br>LangChain</td>
-  <td align="center"><img src="https://seeklogo.com/images/F/faiss-logo-68E5C8D75E-seeklogo.com.png" width="40" height="40"/><br>FAISS</td>
-  <td align="center"><img src="https://seeklogo.com/images/P/pinecone-logo-0B161C9D9E-seeklogo.com.png" width="40" height="40"/><br>Pinecone</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://seeklogo.com/images/G/google-gemini-logo-5066226E3B-seeklogo.com.png" width="40" height="40"/><br>Gemini</td>
-  <td align="center"><img src="https://avatars.githubusercontent.com/u/104815081?s=200&v=4" width="40" height="40"/><br>Claude</td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/200px-Wikipedia-logo-v2.svg.png" width="40" height="40"/><br>RAG</td>
-</tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" /><br>PyTorch</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" /><br>Kubernetes</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" /><br>Flask</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" /><br>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure" /><br>Azure</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" /><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" /><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=terraform" /><br>Terraform</td>
+  </tr>
 </table>
 
 ---
 
-### 🤝 Connect with Me
+### 🧠 AI Tools & Frameworks
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/openai_logo.png" width="80"/><br><b>OpenAI</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/langchain_logo.png" width="80"/><br><b>LangChain</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/gemini_logo.png" width="80"/><br><b>Gemini</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/claude_logo.png" width="80"/><br><b>Claude</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/faiss_logo.png" width="80"/><br><b>FAISS</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/pinecone_logo.png" width="80"/><br><b>Pinecone</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/rag_logo.png" width="80"/><br><b>RAG</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:shivnekarvedant2000@gmail.com">
@@ -86,4 +93,4 @@ I specialize in creating **end-to-end AI systems**—from LLM applications and R
 
 ---
 
-<h4 align="center">🚀 Let’s build AI that scales, explains, and delivers real-world value.</h4>
+<h4 align="center">🚀 Building AI systems that scale, explain, and deliver real-world impact.</h4>
