@@ -82,11 +82,11 @@
 <p align="center">
   <a href="mailto:shivnekarvedant2000@gmail.com">
     <img src="https://img.shields.io/badge/Email-shivnekarvedant2000@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  </a><br>
   <a href="https://www.linkedin.com/in/vedant-shivnekar/">
     <img src="https://img.shields.io/badge/LinkedIn-Vedant%20Shivnekar-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://scriptedbyvedant.vercel.app/">
+  </a><br>
+  <a href="[https://scriptedbyvedant.vercel.app/](https://v0-portfolio-website-mu-nine-51.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-scriptedbyvedant.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
