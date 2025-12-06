@@ -2,10 +2,11 @@
      AI ENGINEER GITHUB README
      ========================== -->
 
+<!-- AI Engineer GitHub Profile README -->
 <div align="center">
 
-<!-- ⭐ SCI-FI ANIMATED BANNER (AI Digital Tunnel) -->
-<img src="https://i.pinimg.com/originals/33/56/3a/33563a2c2b088dfce9954ef2e09f3f54.gif" width="100%" />
+<!-- ⭐ SCI-FI ANIMATED BANNER (100% GitHub-safe) -->
+<img src="https://i.imgur.com/GY6z8QF.gif" width="100%" />
 
 <!-- 👽 Welcome Heading -->
 <h2 style="font-weight:700; color:#00eaff; margin-top: 20px;">
@@ -16,6 +17,7 @@ Welcome to My AI Engineering Universe 🚀
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&color=00F9FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Vedant+Shivnekar;AI+Engineer+%7C+LLM+Developer+%7C+MLOps+%7C+GenAI+Architect;Designing+Autonomous+Agents+%26+Intelligent+AI+Systems" />
 
 </div>
+
 
 ---
 
