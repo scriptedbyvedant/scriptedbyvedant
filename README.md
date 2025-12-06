@@ -1,8 +1,8 @@
 <!-- AI Engineer GitHub Profile README -->
 <div align="center">
 
-<!-- 🔥 Animated SVG Banner (AI-blue wave) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=200&section=header&text=Hello%20I'm%20Vedant!&fontSize=40&fontColor=ffffff" />
+<!-- 🔥 Sci-Fi Animated SVG Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024,50:090979,100:00d4ff&text=Vedant%20Shivnekar%20%7C%20AI%20Engineer&fontSize=32&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn&stroke=00f9ff&strokeWidth=2" />
 
 <!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&color=00F9FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Vedant+Shivnekar;AI+Engineer+%7C+LLM+%7C+MLOps+%7C+GenAI+Architect;Building+Autonomous+AI+Apps+and+LLM+Systems)
