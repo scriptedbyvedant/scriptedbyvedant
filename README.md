@@ -1,9 +1,10 @@
 <!-- AI Engineer GitHub Profile README -->
 <div align="center">
 
-<!-- 🔥 New Robot Hello Banner (Non-GIPHY, Loads Everywhere) -->
-<img src="https://i.pinimg.com/originals/2e/5c/0c/2e5c0c6f44bfae97f0b807d1aa31c29e.gif" width="300"/>
+<!-- 🔥 Animated SVG Banner (AI-blue wave) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=200&section=header&text=Hello%20I'm%20Vedant!&fontSize=40&fontColor=ffffff" />
 
+<!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&color=00F9FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Vedant+Shivnekar;AI+Engineer+%7C+LLM+%7C+MLOps+%7C+GenAI+Architect;Building+Autonomous+AI+Apps+and+LLM+Systems)
 
 </div>
