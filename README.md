@@ -1,7 +1,8 @@
 <!-- AI Engineer GitHub Profile README -->
 <div align="center">
 
-![AI Banner](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+<!-- 🔥 New Robot Hello Banner (Non-GIPHY, Loads Everywhere) -->
+<img src="https://i.pinimg.com/originals/2e/5c/0c/2e5c0c6f44bfae97f0b807d1aa31c29e.gif" width="300"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&color=00F9FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Vedant+Shivnekar;AI+Engineer+%7C+LLM+%7C+MLOps+%7C+GenAI+Architect;Building+Autonomous+AI+Apps+and+LLM+Systems)
 
@@ -86,7 +87,7 @@
   <a href="https://www.linkedin.com/in/vedant-shivnekar/">
     <img src="https://img.shields.io/badge/LinkedIn-Vedant%20Shivnekar-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a><br>
-  <a href="[https://scriptedbyvedant.vercel.app/](https://v0-portfolio-website-mu-nine-51.vercel.app/)">
+  <a href="https://v0-portfolio-website-mu-nine-51.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-scriptedbyvedant.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
