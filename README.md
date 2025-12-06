@@ -1,27 +1,17 @@
-<!-- ==========================
-     AI ENGINEER GITHUB README
-     ========================== -->
-
 <!-- AI Engineer GitHub Profile README -->
 <div align="center">
 
-<!-- ⭐ SCI-FI ANIMATED BANNER (100% GitHub-safe) -->
-<img src="https://i.imgur.com/GY6z8QF.gif" width="100%" />
+<!-- 🔥 Animated SVG Banner (AI-blue wave) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=200&section=header&text=Hello%20I'm%20Vedant!&fontSize=40&fontColor=ffffff" />
 
-<!-- 👽 Welcome Heading -->
-<h2 style="font-weight:700; color:#00eaff; margin-top: 20px;">
-Welcome to My AI Engineering Universe 🚀
-</h2>
-
-<!-- ✨ Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&color=00F9FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Vedant+Shivnekar;AI+Engineer+%7C+LLM+Developer+%7C+MLOps+%7C+GenAI+Architect;Designing+Autonomous+Agents+%26+Intelligent+AI+Systems" />
+<!-- Typing Animation -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&color=00F9FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Vedant+Shivnekar;AI+Engineer+%7C+LLM+%7C+MLOps+%7C+GenAI+Architect;Building+Autonomous+AI+Apps+and+LLM+Systems)
 
 </div>
 
-
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Stack | Demo |
 |--------|-------|------|
@@ -33,33 +23,33 @@ Welcome to My AI Engineering Universe 🚀
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python"/><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch"/><br>PyTorch</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow"/><br>TensorFlow</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker"/><br>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes"/><br>Kubernetes</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi"/><br>FastAPI</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flask"/><br>Flask</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws"/><br>AWS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=azure"/><br>Azure</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" /><br>PyTorch</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" /><br>Kubernetes</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" /><br>Flask</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" /><br>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure" /><br>Azure</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git"/><br>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github"/><br>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux"/><br>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql"/><br>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=terraform"/><br>Terraform</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" /><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" /><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=terraform" /><br>Terraform</td>
   </tr>
 </table>
 
 ---
 
-## 🧠 AI Tools & Frameworks
+### 🧠 AI Tools & Frameworks
 
 <table>
   <tr>
@@ -89,7 +79,7 @@ Welcome to My AI Engineering Universe 🚀
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:shivnekarvedant2000@gmail.com">
@@ -105,4 +95,4 @@ Welcome to My AI Engineering Universe 🚀
 
 ---
 
-<h4 align="center">🚀 Building AI systems that scale, explain, and deliver real-world impact.</h4>
+<h4 align="center">🚀 Building AI systems that scale, explain, and deliver real-world impact.</h4> in banner welcome someone make it best professional readme 
