@@ -93,7 +93,7 @@
   </a><br>
   
   <a href="https://v0-portfolio-website-mu-nine-51.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-scriptedbyvedant.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-scriptedbyvedant-black?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
