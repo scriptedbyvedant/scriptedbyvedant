@@ -1,101 +1,103 @@
 <!-- AI Engineer GitHub Profile README -->
 <div align="center">
 
-<!-- 🔥 Animated SVG Banner (AI-blue wave) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=200&section=header&text=Hey%20There%20%F0%9F%91%8B%20%E2%80%94%20Step%20Into%20My%20AI-Powered%20World&fontSize=32&fontColor=ffffff" />
+<!-- 🌐 Professional AI + Cloud Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=200&section=header&text=Welcome%20to%20My%20AI%20Engineering%20Space%20🚀&fontSize=32&fontColor=ffffff"/>
 
-
-<!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&color=00F9FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Vedant+Shivnekar;AI+Engineer+%7C+LLM+%7C+MLOps+%7C+GenAI+Architect;Building+Autonomous+AI+Apps+and+LLM+Systems)
+<!-- ✨ Typing Intro -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&color=00F9FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Vedant+Shivnekar;AI+Engineer+%7C+LLM+Systems+%7C+MLOps+%7C+Cloud+Architect;Designing+Scalable+AI+%2F+RAG+%2F+Multi-Agent+Systems)
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured AI Projects
 
-| Project | Stack | Demo |
-|--------|-------|------|
-| 🧠 **Automated LLM-Based Grading System** | Python, FAISS, Streamlit, PostgreSQL, Docker | [GitHub](https://github.com/scriptedbyvedant) |
-| 📚 **RAG Document Intelligence System** | LangChain, FastAPI, FAISS, Streamlit, AWS | [GitHub](https://github.com/scriptedbyvedant) |
-| 🧬 **Multimodal Image Search Engine** | CLIP, BLIP, FAISS, Streamlit | [GitHub](https://github.com/scriptedbyvedant) |
-| 🤖 **Multi-Agent Research Bot** | CrewAI / LangGraph, FastAPI, Docker | [GitHub](https://github.com/scriptedbyvedant) |
-| ⚙️ **LLM Fine-Tuning + Cloud Deployment** | AWS SageMaker, Lambda, Terraform | [GitHub](https://github.com/scriptedbyvedant) |
-
----
-
-### 💻 Tech Stack
-
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" /><br>PyTorch</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" /><br>Kubernetes</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flask" /><br>Flask</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" /><br>AWS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=azure" /><br>Azure</td>
-    
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" /><br>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" /><br>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=terraform" /><br>Terraform</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" /><br>GCP</td>
-  </tr>
-</table>
+| Project | Tech Stack | Links |
+|--------|------------|-------|
+| 🧠 **Automated LLM-Based Grading System** | Python · FAISS · Streamlit · PostgreSQL · Docker | [GitHub](https://github.com/scriptedbyvedant) |
+| 📚 **RAG Document Intelligence System** | LangChain · FastAPI · FAISS · AWS | [GitHub](https://github.com/scriptedbyvedant) |
+| 🧬 **Multimodal Image Search Engine** | CLIP · BLIP · FAISS · Streamlit | [GitHub](https://github.com/scriptedbyvedant) |
+| 🤖 **Multi-Agent Research Assistant** | CrewAI · LangGraph · FastAPI · Docker | [GitHub](https://github.com/scriptedbyvedant) |
+| ⚙️ **LLM Fine-Tuning + Cloud Deployment** | AWS SageMaker · Lambda · Terraform | [GitHub](https://github.com/scriptedbyvedant) |
 
 ---
 
-### 🧠 AI Tools & Frameworks
+## 💻 Core Technology Stack
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/openai_logo.png" width="80"/><br><b>OpenAI</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/langchain_logo.png" width="80"/><br><b>LangChain</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/gemini_logo.png" width="80"/><br><b>Gemini</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/claude_logo.png" width="80"/><br><b>Claude</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/faiss_logo.png" width="80"/><br><b>FAISS</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/pinecone_logo.png" width="80"/><br><b>Pinecone</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/rag_logo.png" width="80"/><br><b>RAG</b>
-    </td>
-  </tr>
-</table>
+### 🧠 **AI / Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45"/> 
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/> 
+  <img src="https://skillicons.dev/icons?i=python" height="45"/> 
+  <img src="https://skillicons.dev/icons?i=opencv" height="45"/> 
+</p>
 
 ---
 
-### 🤝 Connect With Me
+### 🤖 **LLM, RAG, Agents & Vector Databases**
+<p>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/openai_logo.png" width="70"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/langchain_logo.png" width="70"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/claude_logo.png" width="70"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/gemini_logo.png" width="70"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/faiss_logo.png" width="70"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/pinecone_logo.png" width="70"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/rag_logo.png" width="70"/>
+</p>
+
+---
+
+### ☁️ **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="50"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="50"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
+</p>
+
+---
+
+### 🧩 **Backend Engineering**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+</p>
+
+---
+
+### 🛠 **Developer Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:shivnekarvedant2000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shivnekarvedant2000@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-%F0%9F%93%A7%20shivnekarvedant2000@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a><br>
+  
   <a href="https://www.linkedin.com/in/vedant-shivnekar/">
     <img src="https://img.shields.io/badge/LinkedIn-Vedant%20Shivnekar-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a><br>
-  <a href="https://v0-portfolio-website-mu-nine-51.vercel.app/">
+  
+  <a href="https://scriptedbyvedant.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-scriptedbyvedant.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
 ---
 
-<h4 align="center">🚀 Building AI systems that scale, explain, and deliver real-world impact.</h4> in banner welcome someone make it best professional readme 
+<h3 align="center">🚀 Designing AI systems that scale, reason, and deliver real-world impact.</h3>
+
