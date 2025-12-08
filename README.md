@@ -37,7 +37,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=flask" /><br>Flask</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=aws" /><br>AWS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=azure" /><br>Azure</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" /><br>GCP</td>
     
   </tr>
   <tr>
@@ -47,6 +46,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" /><br>PostgreSQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=terraform" /><br>Terraform</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" /><br>GCP</td>
   </tr>
 </table>
 
