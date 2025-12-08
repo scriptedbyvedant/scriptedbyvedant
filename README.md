@@ -37,6 +37,8 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=flask" /><br>Flask</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=aws" /><br>AWS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=azure" /><br>Azure</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" /><br>GCP</td>
+    
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
