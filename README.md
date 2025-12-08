@@ -23,61 +23,140 @@
 
 ---
 
-## 💻 Core Technology Stack
+## 🧠 Skill Matrix
 
-### 🧠 **AI / Machine Learning**
+<table>
+  <tr>
+    <!-- AI / ML / DL -->
+    <td width="50%" valign="top">
+
+<h3>🧠 AI / ML / DL</h3>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="45"/> 
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/> 
-  <img src="https://skillicons.dev/icons?i=python" height="45"/> 
-  <img src="https://skillicons.dev/icons?i=opencv" height="45"/> 
+  <code>Supervised & Unsupervised Learning</code>
+  <code>Neural Networks (ANN, CNN, RNN)</code>
+  <code>Transformers (ViT, GPT, BERT)</code>
+  <code>Generative Models (VAEs, Diffusion)</code>
+  <code>LLMs & RAG</code>
+  <code>Vector Databases</code>
+  <code>Knowledge Graphs</code>
+  <code>Explainable AI</code>
 </p>
 
----
-
-### 🤖 **LLM, RAG, Agents & Vector Databases**
 <p>
-  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/openai_logo.png" width="70"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" height="40"/>
+</p>
+
+    </td>
+
+    <!-- Agentic AI -->
+    <td width="50%" valign="top">
+
+<h3>🤖 Agentic AI & Autonomous Systems</h3>
+
+<p>
+  <code>AI Agents</code>
+  <code>Multi-Agent Systems</code>
+  <code>Tool-Calling Workflows</code>
+  <code>AI Orchestration</code>
+  <code>Prompt Engineering</code>
+</p>
+
+<p>
   <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/langchain_logo.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/claude_logo.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/gemini_logo.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/faiss_logo.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/pinecone_logo.png" width="70"/>
   <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/rag_logo.png" width="70"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/openai_logo.png" width="70"/>
 </p>
 
----
+    </td>
+  </tr>
 
-### ☁️ **Cloud & DevOps**
+  <tr>
+    <!-- Programming -->
+    <td width="50%" valign="top">
+
+<h3>💻 Programming & Development</h3>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="50"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="50"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
-  <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
+  <code>Python</code>
+  <code>JavaScript / TypeScript</code>
+  <code>FastAPI</code>
+  <code>Flask</code>
+  <code>Streamlit</code>
 </p>
 
----
-
-### 🧩 **Backend Engineering**
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
-  <img src="https://skillicons.dev/icons?i=flask" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs" height="40"/>
 </p>
 
----
+    </td>
 
-### 🛠 **Developer Tools**
+    <!-- Cloud & DevOps -->
+    <td width="50%" valign="top">
+
+<h3>☁️ Cloud & DevOps</h3>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+  <code>AWS (SageMaker, Lambda, EC2, S3)</code>
+  <code>Azure</code>
+  <code>GCP</code>
+  <code>Terraform (IaC)</code>
+  <code>Docker</code>
+  <code>Kubernetes</code>
+  <code>GitHub Actions</code>
+  <code>CI/CD Pipelines</code>
 </p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker,kubernetes,githubactions" height="40"/>
+</p>
+
+    </td>
+  </tr>
+
+  <tr>
+    <!-- MLOps & GenAI -->
+    <td width="50%" valign="top">
+
+<h3>🛠 MLOps & GenAI</h3>
+
+<p>
+  <code>Model Packaging & Deployment</code>
+  <code>Experiment Tracking (MLflow)</code>
+  <code>TensorFlow Serving</code>
+  <code>Monitoring & Logging</code>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,github,linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+</p>
+
+    </td>
+
+    <!-- Databases -->
+    <td width="50%" valign="top">
+
+<h3>🗄️ Databases</h3>
+
+<p>
+  <code>PostgreSQL</code>
+  <code>MySQL</code>
+  <code>MongoDB</code>
+  <code>Firebase</code>
+  <code>FAISS</code>
+  <code>Pinecone</code>
+  <code>ChromaDB</code>
+  <code>Qdrant</code>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase" height="40"/>
+</p>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -92,7 +171,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Vedant%20Shivnekar-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a><br>
   
-  <a href="https://v0-portfolio-website-mu-nine-51.vercel.app/">
+  <a href="https://scriptedbyvedant.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-scriptedbyvedant.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
@@ -100,4 +179,3 @@
 ---
 
 <h3 align="center">🚀 Designing AI systems that scale, reason, and deliver real-world impact.</h3>
-
