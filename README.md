@@ -38,8 +38,6 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
   <img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
   <img src="https://skillicons.dev/icons?i=opencv" height="45"/>
-  <img src="https://skillicons.dev/icons?i=pandas" height="45"/>
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="45"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="60" title="Hugging Face"/>
 
   <!-- Cloud / DevOps -->
