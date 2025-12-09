@@ -41,23 +41,8 @@
   <img src="https://skillicons.dev/icons?i=pandas" height="45"/>
   <img src="https://skillicons.dev/icons?i=matplotlib" height="45"/>
 
-  <!-- LLM / AI Ecosystem -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="60" title="OpenAI"/>
-
-  <!-- Gemini (white version) -->
-  <img src="https://seeklogo.com/images/G/google-gemini-logo-9C16EF8E5D-seeklogo.com.png" width="55" title="Gemini"/>
-
-  <!-- Claude (white version) -->
-  <img src="https://seeklogo.com/images/A/anthropic-claude-logo-CE1073B567-seeklogo.com.png" width="55" title="Claude"/>
-
   <!-- HuggingFace -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="60" title="Hugging Face"/>
-
-  <!-- LangChain -->
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain-light.png" width="60" title="LangChain"/>
-
-  <!-- Llama -->
-  <img src="https://raw.githubusercontent.com/run-llama/logos/main/llama-white.png" width="60" title="Llama"/>
 
   <!-- Cloud / DevOps -->
   <img src="https://skillicons.dev/icons?i=aws" height="50"/>
