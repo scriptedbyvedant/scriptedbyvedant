@@ -23,7 +23,7 @@
 
 ---
 
-## 💻 Core Technology Stack (All Logos Together)
+## 💻 Core Technology Stack
 
 <p align="center">
 
@@ -43,11 +43,21 @@
 
   <!-- LLM / AI Ecosystem -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="60" title="OpenAI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" width="60" title="Gemini"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/2560px-Claude_AI_logo.svg.png" width="60" title="Claude"/>
+
+  <!-- Gemini (white version) -->
+  <img src="https://seeklogo.com/images/G/google-gemini-logo-9C16EF8E5D-seeklogo.com.png" width="55" title="Gemini"/>
+
+  <!-- Claude (white version) -->
+  <img src="https://seeklogo.com/images/A/anthropic-claude-logo-CE1073B567-seeklogo.com.png" width="55" title="Claude"/>
+
+  <!-- HuggingFace -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="60" title="Hugging Face"/>
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain.png" width="60" title="LangChain"/>
-  <img src="https://raw.githubusercontent.com/run-llama/logos/main/llama.png" width="60" title="Llama"/>
+
+  <!-- LangChain -->
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain-light.png" width="60" title="LangChain"/>
+
+  <!-- Llama -->
+  <img src="https://raw.githubusercontent.com/run-llama/logos/main/llama-white.png" width="60" title="Llama"/>
 
   <!-- Cloud / DevOps -->
   <img src="https://skillicons.dev/icons?i=aws" height="50"/>
@@ -67,17 +77,21 @@
   <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" height="50" title="Apache Cassandra"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" height="50" title="Cassandra"/>
 
-  <!-- Dev Tools & OS -->
+  <!-- Developer Tools -->
+  <img src="https://skillicons.dev/icons?i=postman" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
   <img src="https://skillicons.dev/icons?i=gitlab" height="45"/>
+
+  <!-- Operating Systems -->
   <img src="https://skillicons.dev/icons?i=windows" height="45"/>
   <img src="https://skillicons.dev/icons?i=linux" height="45"/>
   <img src="https://skillicons.dev/icons?i=apple" height="45" title="macOS"/>
 
 </p>
+
 
 ---
 
