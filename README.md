@@ -23,15 +23,33 @@
 
 ---
 
-## 💻 Core Technology Stack
-<p>
+## 💻 Core Technology Stack (All Logos Together)
+
+<p align="center">
+
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
   <img src="https://skillicons.dev/icons?i=java" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+
+  <!-- AI / ML -->
   <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
   <img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
   <img src="https://skillicons.dev/icons?i=opencv" height="45"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="45"/>
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="45"/>
+
+  <!-- LLM / AI Ecosystem -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="60" title="OpenAI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" width="60" title="Gemini"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/2560px-Claude_AI_logo.svg.png" width="60" title="Claude"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="60" title="Hugging Face"/>
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain.png" width="60" title="LangChain"/>
+  <img src="https://raw.githubusercontent.com/run-llama/logos/main/llama.png" width="60" title="Llama"/>
+
+  <!-- Cloud / DevOps -->
   <img src="https://skillicons.dev/icons?i=aws" height="50"/>
   <img src="https://skillicons.dev/icons?i=azure" height="50"/>
   <img src="https://skillicons.dev/icons?i=gcp" height="50"/>
@@ -39,20 +57,29 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
   <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
   <img src="https://skillicons.dev/icons?i=ansible" height="50"/>
+
+  <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
   <img src="https://skillicons.dev/icons?i=flask" height="50"/>
   <img src="https://skillicons.dev/icons?i=django" height="50"/>
+
+  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" height="50" title="Apache Cassandra"/>
+
+  <!-- Dev Tools & OS -->
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
   <img src="https://skillicons.dev/icons?i=gitlab" height="45"/>
   <img src="https://skillicons.dev/icons?i=windows" height="45"/>
   <img src="https://skillicons.dev/icons?i=linux" height="45"/>
   <img src="https://skillicons.dev/icons?i=apple" height="45" title="macOS"/>
+
 </p>
+
+---
 
 ## 🤝 Connect With Me
 
