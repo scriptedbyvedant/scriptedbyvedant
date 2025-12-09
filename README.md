@@ -29,52 +29,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
   <img src="https://skillicons.dev/icons?i=java" height="45"/>
-</p>
-
----
-
-### 🧠 AI / Machine Learning
-<p>
   <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
   <img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
   <img src="https://skillicons.dev/icons?i=opencv" height="45"/>
-  <img src="https://skillicons.dev/icons?i=pandas" height="45"/>
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="45"/>
-</p>
-
----
-
-### 🤖 LLM / RAG / Agents
-<p>
-  <!-- LLMs -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="60" title="OpenAI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" width="60" title="Gemini Pro"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/2560px-Claude_AI_logo.svg.png" width="60" title="Claude"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="60" title="Hugging Face"/>
-
-  <!-- Frameworks / Agents -->
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain.png" width="60" title="LangChain"/>
-  <img src="https://raw.githubusercontent.com/run-llama/logos/main/llama.png" width="60" title="Llama"/>
-  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/faiss-logo.png" width="60" style="display:none"/>
-
-  <!-- CrewAI (badge-style) -->
-  <img src="https://img.shields.io/badge/CrewAI-agents-111827?style=flat-square" height="24" title="CrewAI"/>
-
-  <!-- Microsoft AutoGen (badge-style) -->
-  <img src="https://img.shields.io/badge/Microsoft%20AutoGen-agentic%20framework-2563EB?style=flat-square&logo=microsoft&logoColor=white" height="24" title="Microsoft AutoGen"/>
-
-  <!-- RAG icon -->
-  <img src="https://raw.githubusercontent.com/microsoft/sample-app-aoai-chatgpt/main/images/rag-icon.png" width="60" title="RAG"/>
-
-  <!-- MCP (Model Context Protocol) -->
-  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0F766E?style=flat-square" height="24" title="Model Context Protocol"/>
-</p>
-
----
-
-### ☁️ Cloud & DevOps
-<p>
   <img src="https://skillicons.dev/icons?i=aws" height="50"/>
   <img src="https://skillicons.dev/icons?i=azure" height="50"/>
   <img src="https://skillicons.dev/icons?i=gcp" height="50"/>
@@ -82,34 +41,13 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
   <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
   <img src="https://skillicons.dev/icons?i=ansible" height="50"/>
-</p>
-
----
-
-### 🧩 Backend Engineering
-<p>
   <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
-  <img src="https://brandfetch.com/streamlit.io?view=library&library=default&collection=logos&asset=idzRsXH8Nx&utm_source=https%253A%252F%252Fbrandfetch.com%252Fstreamlit.io&utm_medium=copyAction&utm_campaign=brandPageReferral" height="50"/>
   <img src="https://skillicons.dev/icons?i=flask" height="50"/>
   <img src="https://skillicons.dev/icons?i=django" height="50"/>
-</p>
-
----
-
-### 🗄️ Databases & Vector Stores
-<p>
   <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" height="50" title="Apache Cassandra"/>
-  <img src="https://avatars.githubusercontent.com/u/71598460?s=280&v=4" height="50" title="Pinecone"/>
-  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/faiss-logo.png" height="50" title="FAISS"/>
-</p>
-
----
-
-### 🛠 Developer Tools & Operating Systems
-<p>
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
   <img src="https://skillicons.dev/icons?i=gitlab" height="45"/>
@@ -117,8 +55,6 @@
   <img src="https://skillicons.dev/icons?i=linux" height="45"/>
   <img src="https://skillicons.dev/icons?i=apple" height="45" title="macOS"/>
 </p>
-
----
 
 ## 🤝 Connect With Me
 
