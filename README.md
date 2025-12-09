@@ -40,17 +40,24 @@
 
 ### 🤖 **LLM, RAG, Agents & Vector Databases**
 <p>
+  <!-- LLMs -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/2560px-Claude_AI_logo.svg.png" width="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Gemini_logo.svg/2560px-Gemini_logo.svg.png" width="60"/>
-  <img src="https://registry.npmmirror.com/%40lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="60"/>
-  <img src="https://raw.githubusercontent.com/run-llama/logos/main/llamaindex/llamaindex-icon.png" width="60"/>
-  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/rag_logo.png" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Pinecone-Full-Logo-Black.svg" width="80"/>
-  <img src="https://www.designveloper.com/wp-content/uploads/2025/09/What-is-ChromaDB-1-1024x614.webp" width="80"/>
-  <img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" width="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/1024px-Elasticsearch_logo.svg.png" width="75"/>
+  <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/01/cohere-logo-ap-2024.png" width="60"/>
+
+  <!-- Frameworks -->
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain.png" width="60"/>
+  <img src="https://raw.githubusercontent.com/run-llama/logos/main/llama.png" width="60"/>
+  <img src="https://raw.githubusercontent.com/microsoft/sample-app-aoai-chatgpt/main/images/rag-icon.png" width="60"/>
+
+  <!-- Vector DBs -->
+  <img src="https://avatars.githubusercontent.com/u/71598460?s=280&v=4" width="70"/> <!-- Pinecone -->
+  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/faiss-logo.png" width="70"/> <!-- FAISS -->
+  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma-logo.png" width="70"/> <!-- Chroma -->
+  <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/resources/logo.svg" width="55"/> <!-- Qdrant -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" width="55"/> <!-- Redis -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Elasticsearch_logo.svg" width="75"/> <!-- Elasticsearch -->
 </p>
 
 ---
