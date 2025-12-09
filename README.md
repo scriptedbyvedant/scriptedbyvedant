@@ -89,7 +89,7 @@
 ### 🧩 Backend Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
-  <img src="https://skillicons.dev/icons?i=streamlit" height="50"/>
+  <img src="https://brandfetch.com/streamlit.io?view=library&library=default&collection=logos&asset=idzRsXH8Nx&utm_source=https%253A%252F%252Fbrandfetch.com%252Fstreamlit.io&utm_medium=copyAction&utm_campaign=brandPageReferral" height="50"/>
   <img src="https://skillicons.dev/icons?i=flask" height="50"/>
   <img src="https://skillicons.dev/icons?i=django" height="50"/>
 </p>
