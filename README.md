@@ -27,23 +27,28 @@
 
 ### 🧠 **AI / Machine Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="45"/> 
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/> 
-  <img src="https://skillicons.dev/icons?i=python" height="45"/> 
-  <img src="https://skillicons.dev/icons?i=opencv" height="45"/> 
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="45"/>
+  <img src="https://skillicons.dev/icons?i=matlab" height="45"/>
+  <img src="https://skillicons.dev/icons?i=r" height="45"/>
 </p>
 
 ---
 
 ### 🤖 **LLM, RAG, Agents & Vector Databases**
 <p>
-  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/openai_logo.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/langchain_logo.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/claude_logo.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/gemini_logo.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/faiss_logo.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/pinecone_logo.png" width="70"/>
-  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/rag_logo.png" width="70"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/openai_logo.png" width="65"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/claude_logo.png" width="65"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/gemini_logo.png" width="65"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/langchain_logo.png" width="65"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/rag_logo.png" width="65"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/faiss_logo.png" width="65"/>
+  <img src="https://raw.githubusercontent.com/scriptedbyvedant/assets/main/pinecone_logo.png" width="65"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="45"/>
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="45"/>
 </p>
 
 ---
@@ -53,9 +58,13 @@
   <img src="https://skillicons.dev/icons?i=aws" height="50"/>
   <img src="https://skillicons.dev/icons?i=azure" height="50"/>
   <img src="https://skillicons.dev/icons?i=gcp" height="50"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
   <img src="https://skillicons.dev/icons?i=docker" height="50"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
-  <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ansible" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nginx" height="50"/>
 </p>
 
 ---
@@ -65,8 +74,11 @@
   <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
   <img src="https://skillicons.dev/icons?i=flask" height="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" height="50"/>
   <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
 </p>
 
 ---
@@ -77,6 +89,9 @@
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
   <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="50"/>
 </p>
 
 ---
@@ -100,4 +115,3 @@
 ---
 
 <h3 align="center">🚀 Designing AI systems that scale, reason, and deliver real-world impact.</h3>
-
