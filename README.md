@@ -24,8 +24,6 @@
 ---
 
 ## 💻 Core Technology Stack
-
-### 🔤 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
   <img src="https://skillicons.dev/icons?i=java" height="45"/>
